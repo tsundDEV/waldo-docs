@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[462],{3482:function(o){o.exports=JSON.parse('{"allTagsPath":"/waldo-docs/blog/tags","slug":"/waldo-docs/blog/tags/introduction","name":"Introduction","count":1,"permalink":"/waldo-docs/blog/tags/introduction"}')}}]);

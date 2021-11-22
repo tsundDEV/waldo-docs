@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[631],{4912:function(s){s.exports=JSON.parse('{"name":"Infrastructure","permalink":"/waldo-docs/docs/tags/infrastructure","docs":[{"id":"Infrastructure/Welcome","title":"Welcome \ud83d\udc4b","description":"","permalink":"/waldo-docs/docs/Infrastructure/"}],"allTagsPath":"/waldo-docs/docs/tags"}')}}]);
