@@ -13,6 +13,8 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'tsundDev', // Usually your GitHub org/user name.
   projectName: 'waldo-docs', // Usually your repo name.
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
 
   presets: [
     [
