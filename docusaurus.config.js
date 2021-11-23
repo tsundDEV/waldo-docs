@@ -46,7 +46,7 @@ const config = {
         title: 'WALDO',
         logo: {
           alt: 'WALDO',
-          src: 'img/logo.svg',
+          src: '../img/logo.svg',
         },
         items: [
           {
