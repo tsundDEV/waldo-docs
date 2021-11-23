@@ -4,7 +4,7 @@ title: Creating a new Page
 tags: 
     - Leads
 ---
-# Creating a new Page
+# Creating a New Page
 ## Create a New Doc
 ### Pull  the [Github repo](github.com/waldo-vision) to your local repo.
 ![Pull from Github](/img/Docs/Leads/create.png)
