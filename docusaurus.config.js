@@ -23,7 +23,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/waldo-vision/docs',
-        },
+          },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
