@@ -1,3 +1,3 @@
 ---
-slug: ./Delete
+slug: ./delete
 ---
