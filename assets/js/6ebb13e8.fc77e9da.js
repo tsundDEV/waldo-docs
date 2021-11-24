@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[864],{6750:function(s){s.exports=JSON.parse('{"name":"Infrastructure","permalink":"/docs/tags/infrastructure","docs":[{"id":"Infrastructure/Welcome","title":"Welcome \ud83d\udc4b","description":"","permalink":"/docs/Infrastructure/"}],"allTagsPath":"/docs/tags"}')}}]);
