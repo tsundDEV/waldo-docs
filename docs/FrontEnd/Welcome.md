@@ -69,4 +69,5 @@ slug: ./
 > We are choosing [Docusaurus](#) as our documentation app powered by react. It is a simple and powerful way for all teams to add content to WALDO's documentation. 
 >> Docusaurus `(Docusaurus v2.0.02-beta3)` 
 >> Due to compatibility issues with Docusaurus, we are using using an older version of Docusaurus.
+>> Thanks for your patience.
 
