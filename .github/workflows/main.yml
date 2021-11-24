@@ -17,4 +17,4 @@ jobs:
 
     # Run our deployment command
     - name: Automatically deloying docs to [GitHub pages]
-      run: yarn run deploy
+      run: yarn install && yarn deploy
