@@ -9,7 +9,7 @@ const config = {
   title: 'WALDO Documentation',
   tagline: 'First visual anti-cheat powered by AI',
   url: 'https://tsundDev.github.io',
-  baseUrl: '/',
+  baseUrl: '/waldo-docs/',
   favicon: 'img/favicon.ico',
   organizationName: 'tsundDev', // Usually your GitHub org/user name.
   projectName: 'waldo-docs', // Usually your repo name.
